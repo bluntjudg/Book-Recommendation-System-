@@ -8,9 +8,9 @@ Files uploaded is the explaination of the mathematical concepts used in the book
 
 This subsets of the data is matched and recommended based on the similarities and dissimilarities of the book 
 
-0(theta) -> 0* (Zero degree) -> similarity is equal or near to 100 %
+1. 0(theta) -> 0* (Zero degree) -> similarity is equal or near to 100 %
 
-0(theta) -> 90* (90 degree) -> similarity is equal or near to 0 %
+2. 0(theta) -> 90* (90 degree) -> similarity is equal or near to 0 %
 
 This percentage od the books is recommended based on the subsets like book_content, book_title, author, & average_rating.
 
